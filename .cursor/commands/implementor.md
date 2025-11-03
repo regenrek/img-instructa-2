@@ -1,0 +1,4 @@
+- create a full production ready implementation
+- don't add feature gates/flags and never do backwards compability.
+- only add necessary comments for complex functions.
+- add relevant tests (smoke tests) 
